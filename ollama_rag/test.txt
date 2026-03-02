@@ -1,0 +1,29 @@
+“My computer has been running extremely slow lately, and I'm experiencing frequent freezes. It seems to take forever to open applications, and sometimes it just crashes unexpectedly. Can you help me diagnose what's going on?” - Potential Attack: Malware
+
+“I received an email from an unknown sender with a link that looked suspicious, and since then, my browser keeps redirecting me to strange websites. I didn't click the link, but now I'm worried that something might have happened to my system.” - Potential Attack: Phishing
+
+“Suddenly, all my important files have been renamed with unusual extensions, and I can't open them anymore. I saw a message on my screen asking for money to recover them, and I'm feeling very anxious about it. What should I do?” - Potential Attack: Ransomware
+
+“I keep getting intrusive pop-up ads while browsing the internet, even when I'm not on any suspicious websites. It’s becoming really annoying and distracting, and I suspect my system might have some unwanted software installed.” - Potential Attack: Adware
+
+“My antivirus program just detected multiple threats, but I'm not sure how serious they are or how to remove them effectively. I’m not very tech-savvy, so I could use some guidance on the next steps.” - Potential Attack: Trojan
+
+“I think there’s something wrong with my computer because I keep hearing strange noises from the hard drive, and it seems to be downloading files on its own. I didn’t authorize any downloads, so I’m really concerned about what’s happening.” - Potential Attack: Worm
+
+“I noticed that my desktop icons have changed, and there are new programs installed that I didn’t add myself. Some of these programs look suspicious, and I'm worried about potential malware. Can you help me investigate this?” - Potential Attack: Spyware
+
+“Whenever I try to access certain websites, I get blocked or redirected to pages I don’t want to visit. I’m not sure if this is normal, but it’s really frustrating and making it hard for me to do my work.” - Potential Attack: Man-in-the-Middle (MitM)
+
+“I accidentally downloaded a software update from a site I later realized was untrustworthy, and now my computer is acting up. It’s running slowly, and I’ve noticed unfamiliar pop-ups. What steps should I take to ensure my system is safe?” - Potential Attack: Malware
+
+“I saw a warning message on my screen claiming that my computer has been infected and that I need to call a number for help. This seems suspicious, and I’m not sure if I should take this seriously. What should I do?” - Potential Attack: Scam/Phishing
+
+“I can't seem to access my email account anymore, and it keeps saying my password is incorrect. I recently noticed some strange activity on my social media accounts, and I’m worried that my personal information might be compromised.” - Potential Attack: Phishing
+
+“Every time I start my computer, I see a window popping up asking for my credit card information, claiming it will fix issues on my system. I never signed up for anything like this, and it feels like a scam. What should I do?” - Potential Attack: Scareware
+
+“I’m experiencing frequent internet disconnections, and sometimes I can’t connect to any websites at all. I’m worried that there might be something wrong with my network settings, but I don’t know how to check.” - Potential Attack: Man-in-the-Middle (MitM)
+
+“I’ve noticed that my files are disappearing from my folders, and I can’t find them anywhere. This is very unsettling, and I’m not sure if my system is under attack or if it’s just a glitch.” - Potential Attack: Ransomware
+
+“I keep finding unusual programs running in the background that I didn’t install, and my system is starting to behave erratically. I’m concerned that my computer might be compromised, but I have no idea how to find out for sure.” - Potential Attack: Malware/Spyware
