@@ -1,6 +1,0 @@
-beautifulsoup4
-chromadb
-mattsollamatools
-ollama
-python_magic
-Requests
